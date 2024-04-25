@@ -9,7 +9,7 @@
 
 ### Logic for finding new path: 
 * ask for starting location
-* ask for total distance
+* ask for total distance 
 * implement some type of graph search 
 
 ### things to add rn: 
